@@ -1,0 +1,1 @@
+module.exports = 'market_passageToCubos754xgdh'
